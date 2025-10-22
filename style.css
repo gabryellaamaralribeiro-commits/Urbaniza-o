@@ -1,0 +1,25 @@
+body {
+    color: rgb(0, 0, 0);
+    background: rgb(253, 0, 0);
+    margin: 0px;
+    font-family: "Roboto Slab", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color: chocolate
+}
+
+section {
+    background: green;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
