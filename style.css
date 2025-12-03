@@ -1,6 +1,6 @@
 body{
-    color: green;
-    background: rgb(229, 240, 24);
+    color: purple;
+    background: rgb(0, 47, 255);
     margin: 0px;
     font-family: "Permanent Marker", sans-serif;
     margin-bottom: 100px;
@@ -9,7 +9,7 @@ header{
     border-bottom: solid 2px rgb(0, 38, 255);
     padding: 20px;
     font-size: 32px;
-    color:chocolate;
+    color:rgb(255, 0, 0);
 }
 
 section{
